@@ -4,4 +4,5 @@ date1="October 31"
 date2="October 30"
 time="6pm"
 host_name="Harry Potter"
-puts "Dear #{guess_name}, You are cordially invited to the #{party_name} on #{date} at #{time}. Please RSVP no later than #{date2}Sincerly #{host_name}
+puts "Dear #{guess_name}, 
+You are cordially invited to the #{party_name} on #{date} at #{time}. Please RSVP no later than #{date2}Sincerly #{host_name}
