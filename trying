@@ -1,3 +1,6 @@
 guess_name="Hermione"
 party_name="Halloween party"
-date="October 30"
+date="October"
+time="6pm"
+host_name="Harry Potter"
+puts "Dear #{guess_name},
